@@ -1,0 +1,2 @@
+# redakcia
+PJF repo
